@@ -1,4 +1,4 @@
-# To-Do Application
+# To-Do Application Using React JS
 
 A simple and efficient To-Do application designed to help you stay organized and manage your daily tasks with ease. This project provides a clean interface for tracking progress and ensuring productivity.
 
